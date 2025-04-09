@@ -1,7 +1,7 @@
 # CG2023-AY2425-Sem2-Tutorials
 The materials for CG2023 Tutorials in AY2425 Semester 2.
 
-You can find the tutorial solutions in the **Tutorial** folder and brief summaries of the lectures in the **Review** folder. 
+You can find the tutorial solutions in the **Tutorials** folder and brief summaries of the lectures in the **Review** folder. 
 
 Additionally, each set of tutorial slides begins with a brief review of the corresponding lecture.
 
